@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+captcha_images_v2*
+
+# Macbook
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
