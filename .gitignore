@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Macbook
+.DS_Store
 # C extensions
 *.so
-
+# data
+data/
 # Distribution / packaging
 .Python
 build/
